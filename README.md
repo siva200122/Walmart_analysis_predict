@@ -1,5 +1,9 @@
 
 <h1 style="font-size: 28px;">Walmart Sales Analysis Project</h1>
+<h2 style="font-size: 20px;">Key Highlights:</h2>
+<h3 style="font-size: 20px;">Outcome:</h3>
+<h4 style="font-size: 20px;">Future Directions:</h4>
+<h5 style="font-size: 20px;">Conclusion:</h3>
 
 Walmart Sales Analysis Project
 
@@ -20,8 +24,6 @@ Key Highlights:
 
 <li> Visualization and Reporting: Visualizations were created using Python libraries(Pandas, Matplotlib, Seaborn)  to effectively communicate key findings and insights to stakeholders, facilitating data-driven decision-making processes.</li>
 <ul>
-
-  
 Outcome:
   The Walmart sales analysis project not only provided valuable insights into past performance but also laid the groundwork for informed decision-making and strategic planning for future growth initiatives. The actionable recommendations and growth ideas generated through this analysis are poised to drive tangible business outcomes and enhance Walmart's market competitiveness.
 
