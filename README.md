@@ -22,7 +22,7 @@ Key Highlights:
 <ul>
 
   
-<ul>Outcome:
+Outcome:
   The Walmart sales analysis project not only provided valuable insights into past performance but also laid the groundwork for informed decision-making and strategic planning for future growth initiatives. The actionable recommendations and growth ideas generated through this analysis are poised to drive tangible business outcomes and enhance Walmart's market competitiveness.
 
 Future Directions:
@@ -30,4 +30,4 @@ Future Directions:
 
 Conclusion:
   In conclusion, this project exemplifies the application of data analytics in driving business value and innovation. By harnessing the power of data, Walmart can position itself for sustained growth and success in the dynamic retail landscape.
-<ul>
+
