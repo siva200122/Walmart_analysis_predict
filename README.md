@@ -1,9 +1,9 @@
 
 <h1 style="font-size: 28px;">Walmart Sales Analysis Project</h1>
-<h2 style="font-size: 20px;">Key Highlights:</h2>
-<h3 style="font-size: 20px;">Outcome:</h3>
-<h4 style="font-size: 20px;">Future Directions:</h4>
-<h5 style="font-size: 20px;">Conclusion:</h3>
+<h2 style="font-size: 22px;">Key Highlights:</h2>
+<h3 style="font-size: 22px;">Outcome:</h3>
+<h4 style="font-size: 22px;">Future Directions:</h4>
+<h5 style="font-size: 22px;">Conclusion:</h3>
 
 Walmart Sales Analysis Project
 
