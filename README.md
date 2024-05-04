@@ -17,7 +17,7 @@ This project entails an in-depth analysis of Walmart sales data aimed at extract
 <li> New Growth Ideas: Building upon the insights gained, I formulated innovative strategies and ideas to fuel future growth, such as targeted marketing campaigns, product diversification, and optimization of inventory management practices.</li>
 
 <li> Visualization and Reporting: Visualizations were created using Python libraries(Pandas, Matplotlib, Seaborn)  to effectively communicate key findings and insights to stakeholders, facilitating data-driven decision-making processes.</li>
-<ul>
+
 <h3 style="font-size: 22px;">Outcome:</h3>
   The Walmart sales analysis project not only provided valuable insights into past performance but also laid the groundwork for informed decision-making and strategic planning for future growth initiatives. The actionable recommendations and growth ideas generated through this analysis are poised to drive tangible business outcomes and enhance Walmart's market competitiveness.
 
