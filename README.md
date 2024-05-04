@@ -5,9 +5,6 @@ This project entails an in-depth analysis of Walmart sales data aimed at extract
 
 <h2 style="font-size: 22px;">Key Highlights:</h2>
 
-<ul>
-
-
 <li> Data Exploration: The analysis began with thorough exploration of the Walmart sales dataset to understand its structure, variables, and underlying trends.</li>
 
 <li> Trend Identification: Through rigorous analysis, I identified significant trends in sales performance across different product categories, regions, and time periods.</li>
